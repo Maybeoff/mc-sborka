@@ -1,1 +1,25 @@
-{}
+{
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/animalnet_1.12.2_1.6.jar": "animalnet_1.12.2_1.6.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/appliedenergistics2-rv6-stable-7.jar": "appliedenergistics2-rv6-stable-7.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/AsmodeusCore-1.12.2-0.0.30.jar": "AsmodeusCore-1.12.2-0.0.30.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/backpack_3.0.2_1.12.2.jar": "backpack_3.0.2_1.12.2.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/BetterBuildersWands_1.12.2_0.13.1.26913450ff.jar": "BetterBuildersWands_1.12.2_0.13.1.26913450ff.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/Carry-On-Mod-1.12.2.jar": "Carry-On-Mod-1.12.2.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/CodeChickenLib_1.12.2_3.2.2.353_universal.jar": "CodeChickenLib_1.12.2_3.2.2.353_universal.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/EvenMoreTNT-1.0.1.jar": "EvenMoreTNT-1.0.1.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/Galacticraft-1.12.2-4.0.6.jar": "Galacticraft-1.12.2-4.0.6.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/ImmersiveVehicles_1.12.2_13.0.1.jar": "ImmersiveVehicles_1.12.2_13.0.1.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/IVSeagullscivilpack1.13.1.jar": "IVSeagullscivilpack1.13.1.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/IVseagullstrinpartspack1.5.1.jar": "IVseagullstrinpartspack1.5.1.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/jei_1.12.2_4.14.3.239.jar": "jei_1.12.2_4.14.3.239.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/Kidnap-Mod-Forge-1.12.2.jar": "Kidnap-Mod-Forge-1.12.2.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/mclib-1.0-1.12.2.jar": "mclib-1.0-1.12.2.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/metamorph-1.1.7-1.12.2.jar": "metamorph-1.1.7-1.12.2.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/NotEnoughItems_1.12.2_2.4.2.240_universal.jar": "NotEnoughItems_1.12.2_2.4.2.240_universal.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/prefab_1.12.2_1.3.0.26.jar": "prefab_1.12.2_1.3.0.26.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/SuperTNT-1.12.2-1.0.1.jar": "SuperTNT-1.12.2-1.0.1.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/torohealth-1.12.2-11.jar": "torohealth-1.12.2-11.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/xaerolib-forge-1.12.2-1.1.0.jar": "xaerolib-forge-1.12.2-1.1.0.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/xaerominimap-forge-1.12.2-25.3.10.jar": "xaerominimap-forge-1.12.2-25.3.10.jar",
+    "https://raw.githubusercontent.com/Maybeoff/mc-sborka/refs/heads/main/galacti/mods/xaeroworldmap-forge-1.12.2-1.40.11.jar": "xaeroworldmap-forge-1.12.2-1.40.11.jar"
+}
